@@ -72,7 +72,7 @@ class HeapSort {
     // Driver code - entry point of the program
     public static void main(String args[]) {
         // Example unsorted array
-        int arr[] = {9, 4, 3, 8, 10, 2, 5}; 
+        int arr[] = {9, 4, 3, 8, 10, 2, 5, 20, 50, 25, 60}; 
 
         // Call heapSort to sort the array
         heapSort(arr);
